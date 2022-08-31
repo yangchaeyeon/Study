@@ -1,0 +1,15 @@
+# 경로 이동
+cd [Directory name]	
+- cd C:\git 
+
+# 새 Repository 생성 시 clone
+git clone [URL]
+
+git add . ==> 모든 파일
+git add [파일명]
+
+git commit -m "first commit"
+
+# 원격 저장소에 업로드
+git push
+
